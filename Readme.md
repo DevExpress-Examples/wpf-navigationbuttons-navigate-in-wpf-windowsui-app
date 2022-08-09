@@ -3,8 +3,15 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4663)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
+
+# Use NavigationButtons to Navigate in WPF WindowsUI Applications
+
+This example demonstrates how to use NavigationButtons to navigate through views in WPF WindowsUI applications.
+
+<img src="https://user-images.githubusercontent.com/12169834/183709344-1cd20837-1a4c-4e85-877b-68e5f665e5a4.png" width="535"/>
+
 <!-- default file list -->
-*Files to look at*:
+## Files to Look At
 
 * **[MainView.xaml](./CS/NavigationButtons/MainView.xaml) (VB: [MainView.xaml](./VB/NavigationButtons/MainView.xaml))**
 * [MainWindow.xaml](./CS/NavigationButtons/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/NavigationButtons/MainWindow.xaml))
@@ -12,11 +19,6 @@
 * [View2.xaml](./CS/NavigationButtons/View2.xaml) (VB: [View2.xaml](./VB/NavigationButtons/View2.xaml))
 * [View3.xaml](./CS/NavigationButtons/View3.xaml) (VB: [View3.xaml](./VB/NavigationButtons/View3.xaml))
 <!-- default file list end -->
-# How To: Use NavigationButtons to Navigate in WPF WindowsUI Applications
 
-
-<p>This example demonstrates how to use NavigationButtons to navigate through views in WPF WindowsUI applications.</p>
-
-<br/>
-
-
+## Documentation
+* [NavigationFrame](https://docs.devexpress.com/WPF/DevExpress.Xpf.WindowsUI.NavigationFrame)
