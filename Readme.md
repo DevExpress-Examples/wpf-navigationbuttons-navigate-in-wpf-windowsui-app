@@ -10,7 +10,6 @@ This example demonstrates how to use NavigationButtons to navigate through views
 
 <img src="https://user-images.githubusercontent.com/12169834/183709344-1cd20837-1a4c-4e85-877b-68e5f665e5a4.png" width="535"/>
 
-<!-- default file list -->
 ## Files to Look At
 
 * **[MainView.xaml](./CS/NavigationButtons/MainView.xaml) (VB: [MainView.xaml](./VB/NavigationButtons/MainView.xaml))**
@@ -18,7 +17,6 @@ This example demonstrates how to use NavigationButtons to navigate through views
 * [View1.xaml](./CS/NavigationButtons/View1.xaml) (VB: [View1.xaml](./VB/NavigationButtons/View1.xaml))
 * [View2.xaml](./CS/NavigationButtons/View2.xaml) (VB: [View2.xaml](./VB/NavigationButtons/View2.xaml))
 * [View3.xaml](./CS/NavigationButtons/View3.xaml) (VB: [View3.xaml](./VB/NavigationButtons/View3.xaml))
-<!-- default file list end -->
 
 ## Documentation
 * [NavigationFrame](https://docs.devexpress.com/WPF/DevExpress.Xpf.WindowsUI.NavigationFrame)
