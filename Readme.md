@@ -24,7 +24,7 @@ This example demonstrates how to use NavigationButtons to navigate through views
 ## Documentation
 * [NavigationFrame](https://docs.devexpress.com/WPF/DevExpress.Xpf.WindowsUI.NavigationFrame)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-navigationbuttons-navigate-in-wpf-windowsui-app&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-navigationbuttons-navigate-in-wpf-windowsui-app&~~~was_helpful=no)
 
