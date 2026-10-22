@@ -9,7 +9,9 @@
 
 This example demonstrates how to use NavigationButtons to navigate through views in WPF WindowsUI applications.
 
-<img src="https://user-images.githubusercontent.com/12169834/183709344-1cd20837-1a4c-4e85-877b-68e5f665e5a4.png" width="535"/>
+<img src="https://user-images.githubusercontent.com/12169834/183709344-1cd20837-1a4c-4e85-877b-68e5f665e5a4.png" width="535"/> 
+
+<br>
 
 ## Files to Look At
 
